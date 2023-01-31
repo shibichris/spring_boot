@@ -67,5 +67,4 @@ public class FlightController {
 		return "Flight Updated with :"+f.getFlightid();
 
 	}
-
 }
