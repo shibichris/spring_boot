@@ -22,6 +22,7 @@ public class Flight {
 		this.flightName = flightName;
 		this.departure = departure;
 		this.arrival = arrival;
+		
 
 	}
 
